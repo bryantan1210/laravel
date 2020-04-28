@@ -1,0 +1,62 @@
+[
+	{
+	  "kode": "0001",
+	  "cat": "Ponsel",
+	  "nama_produk": "Iphone X",
+	  "img_thum": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "img": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "short_desc": "Penjelasan singkat produk",
+	  "desc": "Penjelasan produk",
+	  "price": 7.200.000
+	},
+	{
+	  "kode": "0002",
+	  "cat": "Ponsel",
+	  "nama_produk": "Iphone Xr",
+	  "img_thum": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "img": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "short_desc": "Penjelasan singkat produk",
+	  "desc": "Penjelasan produk",
+	  "price": 8.000.000
+	},
+	{
+	  "kode": "0003",
+	  "cat": "Ponsel",
+	  "nama_produk": "Iphone Xs",
+	  "img_thum": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "img": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "short_desc": "Penjelasan singkat produk",
+	  "desc": "Penjelasan produk",
+	  "price": 9.000.000
+	},
+	{
+	  "kode": "0004",
+	  "cat": "Ponsel",
+	  "nama_produk": "Iphone 11",
+	  "img_thum": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "img": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "short_desc": "Penjelasan singkat produk",
+	  "desc": "Penjelasan produk",
+	  "price": 14.000.000
+	},
+	{
+	  "kode": "0005",
+	  "cat": "Aksesoris",
+	  "nama_produk": "iMask",
+	  "img_thum": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "img": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "short_desc": "Penjelasan singkat produk",
+	  "desc": "Penjelasan produk",
+	  "price": 2.000.0000
+	},
+	{
+	  "kode": "0006",
+	  "cat": "Aksesoris",
+	  "nama_produk": "Air Pods",
+	  "img_thum": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "img": "http://www.objgen.com/images/objgen-logo-sm.png",
+	  "short_desc": "Penjelasan singkat produk",
+	  "desc": "Penjelasan produk",
+	  "price": 2.200.000
+	}
+]
